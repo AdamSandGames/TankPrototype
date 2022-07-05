@@ -1,0 +1,34 @@
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\AdvGame Ch9 Triangle Adam Sanders.exe
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\AdvGame Ch9 Triangle Adam Sanders.deps.json
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\AdvGame Ch9 Triangle Adam Sanders.runtimeconfig.json
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\AdvGame Ch9 Triangle Adam Sanders.runtimeconfig.dev.json
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\AdvGame Ch9 Triangle Adam Sanders.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\AdvGame Ch9 Triangle Adam Sanders.pdb
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\SharpDX.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\obj\Debug\netcoreapp3.1\AdvGame Ch9 Triangle Adam Sanders.csprojAssemblyReference.cache
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\obj\Debug\netcoreapp3.1\AdvGame Ch9 Triangle Adam Sanders.AssemblyInfoInputs.cache
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\obj\Debug\netcoreapp3.1\AdvGame Ch9 Triangle Adam Sanders.AssemblyInfo.cs
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\obj\Debug\netcoreapp3.1\AdvGame Ch9 Triangle Adam Sanders.csproj.CopyComplete
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\obj\Debug\netcoreapp3.1\AdvGame Ch9 Triangle Adam Sanders.dll
+D:\Docs\ACCWork\Programming Work\Monogame Advanced Programming\AdvGame Ch9 Triangle Adam Sanders\obj\Debug\netcoreapp3.1\AdvGame Ch9 Triangle Adam Sanders.pdb

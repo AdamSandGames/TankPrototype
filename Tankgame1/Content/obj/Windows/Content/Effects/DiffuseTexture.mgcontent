@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Effects/DiffuseTexture.fx</SourceFile>
+  <SourceTime>2021-05-10T22:46:11.2213682-05:00</SourceTime>
+  <DestFile>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/bin/Windows/Content/Effects/DiffuseTexture.xnb</DestFile>
+  <DestTime>2022-01-24T14:43:49.5072626-06:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-05:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

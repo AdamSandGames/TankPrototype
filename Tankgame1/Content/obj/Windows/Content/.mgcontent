@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Effects/DiffuseTexture.fx</File>
+    <File>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Effects/FisheyeTexture.fx</File>
+    <File>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Font1.spritefont</File>
+    <File>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Sounds/05. Imitation.mp3</File>
+    <File>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Sounds/Gun+Silencer.wav</File>
+    <File>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Textures/AlpsMap1.png</File>
+    <File>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Textures/brick2_b.jpg</File>
+    <File>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Textures/Grass seamless old texture.jpg</File>
+    <File>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Textures/mars1.jpg</File>
+    <File>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Textures/MtnMap.png</File>
+    <File>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Textures/rockytexture.jpg</File>
+    <File>D:/Docs/ACCWork/ACC 2021 Semesters/2021a Spring/Programming Work/Monogame Advanced Programming/Tankgame1/Content/uiFont1.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

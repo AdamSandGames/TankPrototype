@@ -1,0 +1,9 @@
+is_global = true
+build_property.ApplicationManifest = app.manifest
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = Tankgame1
+build_property.ProjectDir = D:\Docs\ACCWork\ACC 2021 Semesters\2021a Spring\Programming Work\Monogame Advanced Programming\Tankgame1\

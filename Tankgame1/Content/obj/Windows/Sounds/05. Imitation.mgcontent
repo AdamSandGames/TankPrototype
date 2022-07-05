@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Sounds/05. Imitation.mp3</SourceFile>
+  <SourceTime>2019-04-19T12:37:50-05:00</SourceTime>
+  <DestFile>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Tankgame1/Content/bin/Windows/Sounds/05. Imitation.xnb</DestFile>
+  <DestTime>2021-05-09T14:58:52.9274923-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T11:35:54-06:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Tankgame1/Content/bin/Windows/Sounds/05. Imitation.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

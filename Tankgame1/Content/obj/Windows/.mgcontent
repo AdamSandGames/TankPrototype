@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Sounds/05. Imitation.mp3</File>
+    <File>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Tankgame1/Content/Sounds/Gun+Silencer.wav</File>
+    <File>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Camera Grid Adam Sanders/Content/Textures/AlpsMap1.png</File>
+    <File>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Camera Grid Adam Sanders/Content/Textures/brick2_b.jpg</File>
+    <File>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Camera Grid Adam Sanders/Content/Textures/Grass seamless old texture.jpg</File>
+    <File>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Camera Grid Adam Sanders/Content/Textures/mars1.jpg</File>
+    <File>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Camera Grid Adam Sanders/Content/Textures/MtnMap.png</File>
+    <File>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Camera Grid Adam Sanders/Content/Textures/rockytexture.jpg</File>
+    <File>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Camera Grid Adam Sanders/Content/Effects/FisheyeTexture.fx</File>
+    <File>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Camera Grid Adam Sanders/Content/Effects/DiffuseTexture.fx</File>
+    <File>D:/Docs/ACCWork/Programming Work/Monogame Advanced Programming/Camera Grid Adam Sanders/Content/Font1.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
